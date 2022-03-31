@@ -48,7 +48,7 @@
         "solder_paste_margin_ratio": -0.0
       },
       "track_widths": [
-        0.25,
+        0.2,
         0.2,
         0.25,
         0.4
@@ -280,7 +280,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "BaSe_HMI_V1_0.kicad_pro",
+    "filename": "BaSe_HMI_V1_1.kicad_pro",
     "version": 1
   },
   "net_settings": {
