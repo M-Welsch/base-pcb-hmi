@@ -1,0 +1,8 @@
+*.bak
+*-bak
+rescue-backup/
+BackupServer-backups/
+BaSe*backups/
+*.dcm
+*.pdf
+*.step
