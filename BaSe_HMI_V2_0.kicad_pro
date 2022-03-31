@@ -280,7 +280,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "BaSe_HMI_V1_1.kicad_pro",
+    "filename": "BaSe_HMI_V2_0.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -359,7 +359,7 @@
   },
   "sheets": [
     [
-      "bdc7face-9f7c-4701-80bb-4cc144448db1",
+      "40976bf0-19de-460f-ad64-224d4f51e16b",
       ""
     ]
   ],
